@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: web
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 2264878
+Implementation-Vendor-Id: com
+Build-Jdk: 1.8.0_311
+Implementation-URL: https://spring.io/projects/spring-boot/mvc
+Created-By: Maven Integration for Eclipse
+
